@@ -1,2 +1,14 @@
-# Pong-Game
-Retro fun, Python style! 🕹️ This Pong game built with Turtle graphics brings back classic arcade vibes. Bounce the ball, beat your friend, and relive the pixel-powered glory—all in a few lines of code. 🐢🎮 Let the pong battles begin!
+# 🐢 Pong Game with Turtle Graphics
+
+A classic Pong game made using Python's built-in Turtle graphics module. Two paddles. One ball. Infinite bragging rights.
+
+## 🎮 Features
+- Two-player mode
+- Ball bounces and paddle collisions
+- Score tracking
+- Classic arcade-style gameplay
+
+## 🧠 Controls
+- Player A: `W` (up), `S` (down)
+- Player B: `Up Arrow`, `Down Arrow`
+
